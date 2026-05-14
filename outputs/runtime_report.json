@@ -1,0 +1,19 @@
+{
+  "runtime_seconds_manual_chunked": 551,
+  "runtime_minutes_manual_chunked": 9.183333333333334,
+  "configuration": {
+    "main_n": 3000,
+    "main_runs": 8,
+    "trees": 100,
+    "max_depth": 6,
+    "dml_folds": 5,
+    "sample_size_sensitivity": [
+      1000,
+      2000,
+      3000,
+      5000
+    ],
+    "sample_size_runs": 4
+  },
+  "note": "Runtime recorded from chunked execution in the constrained environment. A normal uninterrupted local run may differ."
+}
