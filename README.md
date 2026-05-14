@@ -1,4 +1,4 @@
-# ARF DML Selection Bias Reproducibility Repository
+# DML Selection Bias Reproducibility Repository
 
 Reproducible, IP-safe code for the paper:
 
