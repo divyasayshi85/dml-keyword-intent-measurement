@@ -1,6 +1,6 @@
 # DML Selection Bias Reproducibility Repository
 
-Reproducible, IP-safe code for the paper:
+Reproducible code for the paper:
 
 **Correcting Selection Bias in Behavioral Intent Measurement Using Double Machine Learning**
 
